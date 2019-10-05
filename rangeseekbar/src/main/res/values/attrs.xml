@@ -43,13 +43,13 @@
         <attr name="thumbPressed" format="reference"/>
         <attr name="thumbDisabled" format="reference"/>
 
-        <attr name="thumbLeftNormal" format="reference"/>
-        <attr name="thumbLeftPressed" format="reference"/>
-        <attr name="thumbLeftDisabled" format="reference"/>
+        <attr name="thumbMinNormal" format="reference"/>
+        <attr name="thumbMinPressed" format="reference"/>
+        <attr name="thumbMinDisabled" format="reference"/>
 
-        <attr name="thumbRightNormal" format="reference"/>
-        <attr name="thumbRightPressed" format="reference"/>
-        <attr name="thumbRightDisabled" format="reference"/>
+        <attr name="thumbMaxNormal" format="reference"/>
+        <attr name="thumbMaxPressed" format="reference"/>
+        <attr name="thumbMaxDisabled" format="reference"/>
 
         <!-- thumb shadow specifications -->
         <attr name="thumbShadow" format="boolean"/>
